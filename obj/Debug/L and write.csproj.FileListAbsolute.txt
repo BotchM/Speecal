@@ -1,0 +1,39 @@
+A:\BotchM\Documents\Windows\Apps\Listen and write\L and write\L and write\bin\Debug\L and write.exe.config
+A:\BotchM\Documents\Windows\Apps\Listen and write\L and write\L and write\bin\Debug\L and write.exe
+A:\BotchM\Documents\Windows\Apps\Listen and write\L and write\L and write\bin\Debug\L and write.pdb
+A:\BotchM\Documents\Windows\Apps\Listen and write\L and write\L and write\obj\Debug\L and write.csprojResolveAssemblyReference.cache
+A:\BotchM\Documents\Windows\Apps\Listen and write\L and write\L and write\obj\Debug\L_and_write.SpeechToText.resources
+A:\BotchM\Documents\Windows\Apps\Listen and write\L and write\L and write\obj\Debug\L_and_write.Properties.Resources.resources
+A:\BotchM\Documents\Windows\Apps\Listen and write\L and write\L and write\obj\Debug\L and write.csproj.GenerateResource.Cache
+A:\BotchM\Documents\Windows\Apps\Listen and write\L and write\L and write\obj\Debug\L and write.exe
+A:\BotchM\Documents\Windows\Apps\Listen and write\L and write\L and write\obj\Debug\L and write.pdb
+A:\BotchM\Documents\Windows\Apps\Listen and write\L and write\L and write\bin\Debug\Speech.Engine.dll
+A:\BotchM\Documents\Windows\Apps\Listen and write\L and write\L and write\bin\Debug\TranslatorService.Speech.dll
+A:\BotchM\Documents\Windows\Apps\Listen and write\L and write\L and write\bin\Debug\Speech.Engine.xml
+A:\BotchM\Documents\Windows\Apps\Listen and write\L and write\L and write\bin\Debug\TranslatorService.Speech.xml
+C:\Users\BotchM\OneDrive\Documents\Personal\Listen and write\L and write\L and write\bin\Debug\L and write.exe.config
+C:\Users\BotchM\OneDrive\Documents\Personal\Listen and write\L and write\L and write\obj\Debug\L and write.exe
+C:\Users\BotchM\OneDrive\Documents\Personal\Listen and write\L and write\L and write\obj\Debug\L and write.pdb
+C:\Users\BotchM\OneDrive\Documents\Personal\Listen and write\L and write\L and write\bin\Debug\L and write.exe
+C:\Users\BotchM\OneDrive\Documents\Personal\Listen and write\L and write\L and write\bin\Debug\L and write.pdb
+C:\Users\BotchM\OneDrive\Documents\Personal\Listen and write\L and write\L and write\bin\Debug\Speech.Engine.dll
+C:\Users\BotchM\OneDrive\Documents\Personal\Listen and write\L and write\L and write\bin\Debug\TranslatorService.Speech.dll
+C:\Users\BotchM\OneDrive\Documents\Personal\Listen and write\L and write\L and write\bin\Debug\Speech.Engine.xml
+C:\Users\BotchM\OneDrive\Documents\Personal\Listen and write\L and write\L and write\bin\Debug\TranslatorService.Speech.xml
+C:\Users\BotchM\OneDrive\Documents\Personal\Listen and write\L and write\L and write\obj\Debug\L and write.csprojResolveAssemblyReference.cache
+C:\Users\BotchM\OneDrive\Documents\Personal\Listen and write\L and write\L and write\obj\Debug\L_and_write.SpeechToText.resources
+C:\Users\BotchM\OneDrive\Documents\Personal\Listen and write\L and write\L and write\obj\Debug\L_and_write.Properties.Resources.resources
+C:\Users\BotchM\OneDrive\Documents\Personal\Listen and write\L and write\L and write\obj\Debug\L and write.csproj.GenerateResource.Cache
+C:\Users\BotchM\OneDrive\Documents\Personal\C# projects\Listen and write\L and write\L and write\bin\Debug\L and write.exe.config
+C:\Users\BotchM\OneDrive\Documents\Personal\C# projects\Listen and write\L and write\L and write\obj\Debug\L and write.exe
+C:\Users\BotchM\OneDrive\Documents\Personal\C# projects\Listen and write\L and write\L and write\obj\Debug\L and write.pdb
+C:\Users\BotchM\OneDrive\Documents\Personal\C# projects\Listen and write\L and write\L and write\bin\Debug\L and write.exe
+C:\Users\BotchM\OneDrive\Documents\Personal\C# projects\Listen and write\L and write\L and write\bin\Debug\L and write.pdb
+C:\Users\BotchM\OneDrive\Documents\Personal\C# projects\Listen and write\L and write\L and write\bin\Debug\Speech.Engine.dll
+C:\Users\BotchM\OneDrive\Documents\Personal\C# projects\Listen and write\L and write\L and write\bin\Debug\TranslatorService.Speech.dll
+C:\Users\BotchM\OneDrive\Documents\Personal\C# projects\Listen and write\L and write\L and write\bin\Debug\Speech.Engine.xml
+C:\Users\BotchM\OneDrive\Documents\Personal\C# projects\Listen and write\L and write\L and write\bin\Debug\TranslatorService.Speech.xml
+C:\Users\BotchM\OneDrive\Documents\Personal\C# projects\Listen and write\L and write\L and write\obj\Debug\L and write.csprojResolveAssemblyReference.cache
+C:\Users\BotchM\OneDrive\Documents\Personal\C# projects\Listen and write\L and write\L and write\obj\Debug\L_and_write.SpeechToText.resources
+C:\Users\BotchM\OneDrive\Documents\Personal\C# projects\Listen and write\L and write\L and write\obj\Debug\L_and_write.Properties.Resources.resources
+C:\Users\BotchM\OneDrive\Documents\Personal\C# projects\Listen and write\L and write\L and write\obj\Debug\L and write.csproj.GenerateResource.Cache
